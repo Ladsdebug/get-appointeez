@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 104 104" width="104" height="104" role="img" aria-label="Appoint Eez">
+<title>Appoint Eez</title>
+<g>
+  <rect x="0" y="0" width="104" height="104" rx="24.96" fill="#FF5B24"/>
+  <path d="M22.88 24.96 H81.12 Q89.44 24.96 89.44 33.28 V64.48 Q89.44 72.80 81.12 72.80 H47.84 L29.12 87.36 L31.20 72.80 H22.88 Q14.56 72.80 14.56 64.48 V33.28 Q14.56 24.96 22.88 24.96 Z" fill="#171411"/>
+  <g stroke="#FBF6EC" stroke-width="7.28" stroke-linecap="round">
+    <path d="M35.36 41.60 L35.36 56.16"/>
+    <path d="M52.00 35.36 L52.00 62.40"/>
+    <path d="M68.64 41.60 L68.64 56.16"/>
+  </g>
+</g>
+</svg>
